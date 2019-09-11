@@ -1,2 +1,2 @@
-# CursoGitZaragoza
+CursoGitZaragoza
 Curso de prueba GIT GFT
